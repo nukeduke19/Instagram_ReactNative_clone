@@ -33,8 +33,8 @@ To run the application on your machine, follow the steps below:
 
 1. Download/ Clone the repository on your machine.
 2. Open the `project` folder `cd Instagram_ReactNative_Clone` .
-3. Open the terminal at the root of the `src` folder (<kbd>Ctrl</kbd> + <kbd>'</kbd>) and run `npm install` to install the project dependencies.
-4. Still in the terminal, run the command `npx react-native run-android` to start the app (make sure an AVD is running).
+3. Open the terminal at the root of the `src` folder ( <kbd>Ctrl</kbd>+<kbd>shift</kbd> + <kbd>'</kbd> ) and run `npm install` to install the project dependencies.
+4. Still in the terminal, run the command `npx react-native run-android` to start the app.
 5. The application should open automatically on the AVD.
 
 ## Author
